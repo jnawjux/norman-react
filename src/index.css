@@ -29,6 +29,8 @@ header {
 
 main {
     background: whitesmoke;
+    color: black;
+    text-align: center;
 }
 
 footer {
